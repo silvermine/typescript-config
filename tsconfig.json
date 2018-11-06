@@ -1,0 +1,30 @@
+{
+   "compilerOptions": {
+      "target": "es2016",
+      "lib": [
+         "es2016"
+      ],
+      "strict": true,
+      "noUnusedParameters": true,
+      "noUnusedLocals": true,
+      "strictNullChecks": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "importHelpers": true,
+      "noEmitOnError": true,
+      "noFallthroughCasesInSwitch": true,
+      "preserveConstEnums": true,
+      "experimentalDecorators": true,
+      "preserveSymlinks": true,
+      "resolveJsonModule": true,
+      "sourceMap": true
+   },
+   "exclude": [
+      "**/node_modules/*",
+      "**/coverage/*",
+      "**/dist/*",
+      "**/.nyc_output/*"
+   ]
+}

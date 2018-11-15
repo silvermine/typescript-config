@@ -11,5 +11,13 @@
     "tsc"
   ],
   "author": "Jeremy Thomerson",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvermine/typescript-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/silvermine/typescript-config/issues"
+  },
+  "homepage": "https://github.com/silvermine/typescript-config#readme"
 }

@@ -18,6 +18,7 @@
       "noFallthroughCasesInSwitch": true,
       "preserveConstEnums": true,
       "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
       "preserveSymlinks": true,
       "resolveJsonModule": true,
       "sourceMap": true,

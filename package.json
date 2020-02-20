@@ -1,6 +1,6 @@
 {
   "name": "@silvermine/typescript-config",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "A set of TypeScript configuration files for all our Silvermine projects",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

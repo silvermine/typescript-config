@@ -2,7 +2,7 @@
    "extends": "../tsconfig.types.json",
    "compilerOptions": {
       "lib": [
-         "es2016",
+         "es2019",
          "dom"
       ]
    }

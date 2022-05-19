@@ -10,6 +10,7 @@
       "noUnusedLocals": true,
       "strictNullChecks": true,
       "forceConsistentCasingInFileNames": true,
+      "jsx": "preserve",
       "moduleResolution": "node",
       "esModuleInterop": true,
       "allowSyntheticDefaultImports": true,
